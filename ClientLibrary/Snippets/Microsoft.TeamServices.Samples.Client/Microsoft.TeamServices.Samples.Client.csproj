@@ -171,6 +171,7 @@
     <Compile Include="Graph\MembershipStatesSample.cs" />
     <Compile Include="Graph\StorageKeySample.cs" />
     <Compile Include="Graph\SubjectLookupSample.cs" />
+    <Compile Include="Policy\PolicySample.cs" />
     <Compile Include="ProjectsAndTeams\ProcessesSample.cs" />
     <Compile Include="ProjectsAndTeams\ProjectCollectionsSample.cs" />
     <Compile Include="ProjectsAndTeams\ProjectsSample.cs" />
