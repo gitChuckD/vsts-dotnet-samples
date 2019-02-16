@@ -39,6 +39,7 @@ namespace Microsoft.TeamServices.Samples.Client.Runner
             try
             {
                 ClientSampleUtils.RunClientSampleMethods(connectionUrl, null, area: area, resource: resource, outputPath: outputPath);
+                Console.ReadKey();
             }
             catch (Exception ex)
             {
